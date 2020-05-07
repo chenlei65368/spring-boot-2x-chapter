@@ -1,4 +1,4 @@
-package org.springboot.chapter.chapter02;
+package org.springboot.chapter.chapter03;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
